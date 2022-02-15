@@ -1,19 +1,2 @@
-# csky
-
-### 运行
-```
-npm run serve
-```
-
-### 打包
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 已废弃
+新版本见: https://github.com/Jxyyds/cskyVue2.git
